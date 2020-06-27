@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UndeadHorseLeash:jar">
+    <output-path>$PROJECT_DIR$/../UndeadHorseLeash_jar</output-path>
+    <root id="archive" name="UndeadHorseLeash.jar">
+      <element id="module-output" name="UndeadHorseLeash" />
+    </root>
+  </artifact>
+</component>
